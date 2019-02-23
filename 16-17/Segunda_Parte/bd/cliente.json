@@ -1,0 +1,281 @@
+[ {
+  "nome" : "Sofia",
+  "nif" : 256478914,
+  "genero" : "F",
+  "telemovel" : 934374795,
+  "email" : "sofia12@gmail.com",
+  "senha" : "xoxa1"
+}, {
+  "nome" : "Joaquim",
+  "nif" : 236478497,
+  "genero" : "M",
+  "telemovel" : 926478974,
+  "email" : "joaquim23@gmail.com",
+  "senha" : "lola12"
+}, {
+  "nome" : "Manuel",
+  "nif" : 245697531,
+  "genero" : "M",
+  "telemovel" : 912547896,
+  "email" : "manuel23@gmail.com",
+  "senha" : "goga25"
+}, {
+  "nome" : "Ana",
+  "nif" : 245987426,
+  "genero" : "F",
+  "telemovel" : 967451785,
+  "email" : "ana198@gmail.com",
+  "senha" : "suha11"
+}, {
+  "nome" : "Beatriz",
+  "nif" : 265417894,
+  "genero" : "F",
+  "telemovel" : 924784136,
+  "email" : "beatriz45@gmail.com",
+  "senha" : "hbif1"
+}, {
+  "nome" : "Joao",
+  "nif" : 123478945,
+  "genero" : "M",
+  "telemovel" : 917854784,
+  "email" : "joao41@gmail.com",
+  "senha" : "jota451"
+}, {
+  "nome" : "Jose",
+  "nif" : 286475214,
+  "genero" : "M",
+  "telemovel" : 927563471,
+  "email" : "jose98@gmail.com",
+  "senha" : "kija23"
+}, {
+  "nome" : "Andre",
+  "nif" : 214768763,
+  "genero" : "M",
+  "telemovel" : 917487862,
+  "email" : "andre09@gmail.com",
+  "senha" : "juja12"
+}, {
+  "nome" : "Rafael",
+  "nif" : 184214769,
+  "genero" : "M",
+  "telemovel" : 967841247,
+  "email" : "rafael09@gmail.com",
+  "senha" : "kiha123"
+}, {
+  "nome" : "Catarina",
+  "nif" : 236541287,
+  "genero" : "F",
+  "telemovel" : 967452147,
+  "email" : "catarina76@gmail.com",
+  "senha" : "doda345"
+}, {
+  "nome" : "Diana",
+  "nif" : 201475634,
+  "genero" : "F",
+  "telemovel" : 936547854,
+  "email" : "diana89@gmail.com",
+  "senha" : "velah3"
+}, {
+  "nome" : "Kika",
+  "nif" : 214756324,
+  "genero" : "F",
+  "telemovel" : 917542365,
+  "email" : "kika90@gmail.com",
+  "senha" : "tyhu1"
+}, {
+  "nome" : "Daniela",
+  "nif" : 243654125,
+  "genero" : "F",
+  "telemovel" : 914785647,
+  "email" : "daniela23@gmail.com",
+  "senha" : "jlods1"
+}, {
+  "nome" : "Manuela",
+  "nif" : 234157994,
+  "genero" : "F",
+  "telemovel" : 954785424,
+  "email" : "manuela34@gmail.com",
+  "senha" : "cviu12"
+}, {
+  "nome" : "Guga",
+  "nif" : 201459756,
+  "genero" : "M",
+  "telemovel" : 914753210,
+  "email" : "guga56@gmail.com",
+  "senha" : "mior34"
+}, {
+  "nome" : "Sofia",
+  "nif" : 216478914,
+  "genero" : "F",
+  "telemovel" : 954756314,
+  "email" : "sofia34@gmail.com",
+  "senha" : "juhgt"
+}, {
+  "nome" : "Rafael",
+  "nif" : 254214741,
+  "genero" : "M",
+  "telemovel" : 914784795,
+  "email" : "rafael78@gmail.com",
+  "senha" : "loge34"
+}, {
+  "nome" : "Gonçalo",
+  "nif" : 214578244,
+  "genero" : "M",
+  "telemovel" : 934578425,
+  "email" : "goncalo21@gmail.com",
+  "senha" : "huf34"
+}, {
+  "nome" : "Beatriz",
+  "nif" : 214578934,
+  "genero" : "F",
+  "telemovel" : 935698757,
+  "email" : "beatriz12@gmail.com",
+  "senha" : "ggt5"
+}, {
+  "nome" : "Fatima",
+  "nif" : 234578452,
+  "genero" : "F",
+  "telemovel" : 969872647,
+  "email" : "fatima21@gmail.com",
+  "senha" : "sdf4"
+}, {
+  "nome" : "Vanessa",
+  "nif" : 256478914,
+  "genero" : "F",
+  "telemovel" : 914528742,
+  "email" : "vanessa00@gmail.com",
+  "senha" : "g6ge23"
+}, {
+  "nome" : "Andre",
+  "nif" : 213695478,
+  "genero" : "M",
+  "telemovel" : 923695478,
+  "email" : "andre67@gmail.com",
+  "senha" : "gfg53"
+}, {
+  "nome" : "Pedro",
+  "nif" : 236542015,
+  "genero" : "M",
+  "telemovel" : 936587425,
+  "email" : "pedro90@gmail.com",
+  "senha" : "hfg5"
+}, {
+  "nome" : "Daniel",
+  "nif" : 214789658,
+  "genero" : "F",
+  "telemovel" : 927896587,
+  "email" : "daniel34@gmail.com",
+  "senha" : "2343f"
+}, {
+  "nome" : "Filipa",
+  "nif" : 214578564,
+  "genero" : "F",
+  "telemovel" : 963654782,
+  "email" : "filipa98@gmail.com",
+  "senha" : "gfgs3"
+}, {
+  "nome" : "Correia",
+  "nif" : 224587453,
+  "genero" : "M",
+  "telemovel" : 924712036,
+  "email" : "correia09@gmail.com",
+  "senha" : "hgfh6"
+}, {
+  "nome" : "Joel",
+  "nif" : 236547852,
+  "genero" : "M",
+  "telemovel" : 964712365,
+  "email" : "joel1223@gmail.com",
+  "senha" : "hgh6h"
+}, {
+  "nome" : "Rita",
+  "nif" : 214785472,
+  "genero" : "F",
+  "telemovel" : 923547123,
+  "email" : "rita@gmail.com",
+  "senha" : "jgfd"
+}, {
+  "nome" : "Joao",
+  "nif" : 236548752,
+  "genero" : "M",
+  "telemovel" : 964785258,
+  "email" : "joao03@gmail.com",
+  "senha" : "hghyr5"
+}, {
+  "nome" : "Diana",
+  "nif" : 236547851,
+  "genero" : "F",
+  "telemovel" : 967429853,
+  "email" : "diana17@gmail.com",
+  "senha" : "gfdg5"
+}, {
+  "nome" : "Joana",
+  "nif" : 224752364,
+  "genero" : "F",
+  "telemovel" : 912458712,
+  "email" : "joana34@gmail.com",
+  "senha" : "hgsg1"
+}, {
+  "nome" : "Joaquim",
+  "nif" : 253154789,
+  "genero" : "M",
+  "telemovel" : 936542102,
+  "email" : "joaquim76@gmail.com",
+  "senha" : "lofjf6"
+}, {
+  "nome" : "Pedro",
+  "nif" : 202145369,
+  "genero" : "M",
+  "telemovel" : 963254782,
+  "email" : "pedro23@gmail.com",
+  "senha" : "ver14"
+}, {
+  "nome" : "Ana",
+  "nif" : 214235697,
+  "genero" : "F",
+  "telemovel" : 967429853,
+  "email" : "ana11@gmail.com",
+  "senha" : "lfjh65"
+}, {
+  "nome" : "Roberto",
+  "nif" : 223412547,
+  "genero" : "M",
+  "telemovel" : 914525698,
+  "email" : "roberto56@gmail.com",
+  "senha" : "kihag43"
+}, {
+  "nome" : "Bruno",
+  "nif" : 203256148,
+  "genero" : "M",
+  "telemovel" : 936542012,
+  "email" : "bruno98@gmail.com",
+  "senha" : "lojh54"
+}, {
+  "nome" : "Sara",
+  "nif" : 215365421,
+  "genero" : "F",
+  "telemovel" : 923654210,
+  "email" : "sara11@gmail.com",
+  "senha" : "kdh56"
+}, {
+  "nome" : "Patricia",
+  "nif" : 212365487,
+  "genero" : "F",
+  "telemovel" : 914523658,
+  "email" : "patricia43@gmail.com",
+  "senha" : "kghh65"
+}, {
+  "nome" : "Liliana",
+  "nif" : 223654782,
+  "genero" : "F",
+  "telemovel" : 936542514,
+  "email" : "liliana67@gmail.com",
+  "senha" : "lojhb5"
+}, {
+  "nome" : "Sonia",
+  "nif" : 253214587,
+  "genero" : "F",
+  "telemovel" : 932145987,
+  "email" : "sonia23@gmail.com",
+  "senha" : "kgng87"
+} ]

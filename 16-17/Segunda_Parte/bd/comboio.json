@@ -1,0 +1,1010 @@
+[ {
+  "id_Comboio" : 1,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Nacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  } ]
+}, {
+  "id_Comboio" : 2,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Nacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 25
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 25
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 5
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  } ]
+}, {
+  "id_Comboio" : 3,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Nacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 25
+  } ]
+}, {
+  "id_Comboio" : 4,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Nacional",
+  "lc" : [ {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 5
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 6
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 7
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 8
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 9
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 25
+  } ]
+}, {
+  "id_Comboio" : 5,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Internacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 5
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  } ]
+}, {
+  "id_Comboio" : 6,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Internacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 22
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 23
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 24
+  } ]
+}, {
+  "id_Comboio" : 7,
+  "lotacao_Primeira_Classe" : 9,
+  "lotacao_Economica" : 16,
+  "capacidade" : 25,
+  "tipo_comboio" : "Internacional",
+  "lc" : [ {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 5
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 6
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 10
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 11
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 12
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 13
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 1
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 2
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 3
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 4
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 5
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 6
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 7
+  }, {
+    "classe" : "1ªClasse",
+    "n_Lugar" : 8
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 14
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 15
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 16
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 17
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 18
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 19
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 20
+  }, {
+    "classe" : "Económica",
+    "n_Lugar" : 21
+  } ]
+} ]
