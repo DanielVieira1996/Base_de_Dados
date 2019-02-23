@@ -1,0 +1,41 @@
+//Query 1 (Informaçao completa de cliente)
+
+MATCH(c:Cliente),(cc:Cartao_Cidadao),(m:Morada)
+WHERE c.Cartao_Cidadao_id_Cartao_Cidadao = cc.id_Cartao_Cidadao and c.Morada_id_Morada = m.id_Morada
+Return cc.Nome, cc.Numero, c.Email, c.NºCartao_Debito, c.Contacto_Telefonico, m.Rua, m.Localidade, m.Codigo_Postal ;
+
+//Query 2 (Total gasto por cada cliente)
+
+MATCH (c:Cliente),(cc:Cartao_Cidadao),(r:Reserva)
+WHERE c.Cartao_Cidadao_id_Cartao_Cidadao = cc.id_Cartao_Cidadao and r.Cliente_id_Cliente=c.id_Cliente
+Return cc.Nome, cc.Numero, c.Email, Sum(r.Preco) as Gasto;
+
+//Query 3 (Quantidade de reservas por cada cliente)
+
+MATCH (cc:Cartao_Cidadao),(c:Cliente)-[:EFETUA]->(r:Reserva)
+WHERE c.Cartao_Cidadao_id_Cartao_Cidadao = cc.id_Cartao_Cidadao and r.Cliente_id_Cliente=c.id_Cliente
+Return cc.Nome, c.Email, Count(*) as NrReservas;
+
+// Query 4 (Facturaçao por cada Hotel)
+
+MATCH (h:Hotel),(r:Reserva)
+WHERE h.id_Hotel =  r.Hotel_id_Hotel 
+Return h.Nome_Hotel, h.Cidade, h.Classificacao, Sum(r.Preco) as Faturacao;
+
+// Query 5(Quantidade quartos reservados por cliente)
+
+MATCH (cc:Cartao_Cidadao),(c:Cliente) - [:EFETUA] -> (r:Reserva)
+WHERE cc.id_Cartao_Cidadao = c.Cartao_Cidadao_id_Cartao_Cidadao and c.id_Cliente = r.Cliente_id_Cliente 
+Return cc.Nome, c.Email, Sum(r.Quantidade_Quartos) as Total_Quartos;
+
+
+
+// Query 6 (Tipo de reserva por cliente)
+
+MATCH (cc:Cartao_Cidadao), (c:Cliente) - [:EFETUA] -> (r:Reserva),(h:Hotel), (tr:Tipo_Reserva) 
+Where cc.id_Cartao_Cidadao = c.Cartao_Cidadao_id_Cartao_Cidadao 
+	and h.id_Hotel = r.Hotel_id_Hotel
+	and r.id_Reserva = tr.Reserva_id_Reserva     
+Return r.id_Reserva, cc.Nome, c.Email, h.Nome_Hotel, tr.Tipo_Quarto, tr.Opcao_Estadia;
+
+
